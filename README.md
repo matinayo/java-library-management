@@ -41,3 +41,19 @@ It also contains buttons used to navigate through different panels for various o
 'Modify' button which is used to modify a record in the database<br>
 'Delete' button which is used to delete a record in the database<br>
 
+When the 'Add' button is clicked, it displays a panel to get the record of books to add to the database<br>
+
+
+![git4](https://user-images.githubusercontent.com/57018279/77861188-5d13b200-720b-11ea-8d4b-23050235b0d1.PNG)
+
+When the 'Modify' button is clicked, it displays a panel to get the id of the record to be modified and then gets the details of the book relating to the id inserted<br>
+
+![git5](https://user-images.githubusercontent.com/57018279/77861247-ae23a600-720b-11ea-99d0-244ef83d6a11.PNG)<br>
+![git6](https://user-images.githubusercontent.com/57018279/77861249-afed6980-720b-11ea-887a-fc5b377a0554.PNG)
+
+A user can also delete a book record by inserting the book id to be deleted into the provided field and a user could log out of their account<br>
+![git7](https://user-images.githubusercontent.com/57018279/77861251-b1b72d00-720b-11ea-81b7-752da1923890.PNG)
+
+
+
+
